@@ -15,13 +15,14 @@ let name ="javed"
 let number = 2
 
 // 3- Boolean
-let isLoggedIn= false
+let isLoggedIn= false  
+let isiLoggedIn =  true
 
 // 4- null
 let outsidetemp =null
 
 // 5- undefined
-let usereamil;
+let usereamil ;
 
 // 6- Symbol
 let id= Symbol("123")
@@ -29,7 +30,8 @@ let anotherId= Symbol("123")
 // console.log(id=== anotherId);
 
 // 7- BigInt
-let BigNumber= 8625481276523746
+const BigNumber= 8625481276523746n
+console.log ( typeof (BigNumber))
 
  
 

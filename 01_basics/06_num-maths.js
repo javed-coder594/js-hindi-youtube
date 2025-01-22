@@ -13,7 +13,7 @@
 // console.log(number.toPrecision(4));
 
 
-// // *******8toLocaleString('en-In')****
+// // *******toLocaleString('en-In')****
 // const Othernumber = 7639273
 // console.log (Othernumber.toLocaleString("en-In"))
 // console.log (Othernumber.toLocaleString())
@@ -26,15 +26,15 @@
 // // ***abs means negative to postitive *****
 // console.log(Math.abs(-5))
 
-// console.log(Math.round(5.4))
+// console.log(Math.round(5.4)) (In round method 5.4 become 5 and 5.6 become 6 )
 
-// console.log(Math.ceil(5.4))
+// console.log(Math.ceil(5.4)) (In ceil method 5.4 become 5)
 
-// console.log(Math.floor(5.4))
+// console.log(Math.floor(5.9) (In floor method 5.4 become 6)
 
-// console.log(Math.min(5,3,2,3,2))
+// console.log(Math.min(5,3,2,3,2)) (min is 2)
 
-// console.log(Math.max(7,3,2,3,2))
+// console.log(Math.max(7,3,2,3,2)) (max is 7)
 
 
 console.log(Math.random());

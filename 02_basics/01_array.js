@@ -1,9 +1,8 @@
-// const myarr =[0,1,2,3,4,5]
-// console.log(myarr[1]);
+const myarr0 =[0,1,2,3,4,5]
+console.log(myarr0[1]);
+// o/p >>>> 1
 
-// const myHero =['spiderman' ,'superman ', 'ironman']
-
-
+// const myHero =['spiderman' ,'superman ', 'ironman'] 
 // const myarr2 = new Array (1 ,2,3,4)
 // we can also write this type of array
 
@@ -31,19 +30,19 @@ myarr.shift()
 
 // console.log(myarr);
 
-// for indexof
+// for indexof*****8
 // console.log(myarr.indexOf(3)); 
-// o/p >>>>> 4
+// o/p >>>>> 3
 
-// this Element is available or not 
+// this Element is available or not **** includes
 // console.log(myarr.includes(3));
 // o/p>>> true
 
-// join () convert array into string 
+// join () convert array into string  
 // const newarr = myarr.join()
 // console.log(newarr);
 // console.log(typeof(newarr));
-//o/p >>>> 0,1,2,3,4,5,6
+//o/p >>>> 0,1,2,3,4,5
  
 
 

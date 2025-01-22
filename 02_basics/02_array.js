@@ -3,7 +3,7 @@
 
 // marvelHero.push(dcHeros)
 // console.log(marvelHero);
-// o/p >>> [ 'thor', 'ironman', 'spderman' ]
+// o/p >>> [ 'thor', 'ironman', 'spderman' ["saktiman" , "ali" ,"alzal"]]
 
 // ****************concat************
 // let combineHero=marvelHero.concat(dcHeros)
@@ -32,9 +32,18 @@
 // console.log (Array.isArray('javed'))
 // // o/p >>>false
 
+// let names = ['javed', 'juned']
+// console.log (Array.isArray (names))
+// o/p >>>true
+
 // // ******************Array.from******************************
 // console.log (Array.from('javed')) // Converts into array .......
 // // o/p >>> [ 'j', 'a', 'v', 'e', 'd' ]
+ 
+//  other example of .from
+// let name = 'javed'
+// console.log (Array.from(name))
+// o/p >>>>> [ 'j', 'a', 'v', 'e', 'd' ]
 
 // // ******************Array.of******************************
 // let score  = 100

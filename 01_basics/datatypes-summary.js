@@ -43,7 +43,7 @@ console.log ( typeof (BigNumber))
 // 3-Function
 
 // 1- Array
-const heros = ["batman" , "spiderman"];
+const heros = ["batman" , "spiderman" ,1 ,3];
 
 // 2-Object
 let myObj= {
